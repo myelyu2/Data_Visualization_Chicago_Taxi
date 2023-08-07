@@ -1,6 +1,8 @@
 # Data Visualization Chicago Taxi
 🚕 Visualization of Taxi rides in Chicago using RStudio and ShinyApp. Using a NodeJS program designed to filter, process, and pre-generate CSV tables from a large dataset for visualization projects. This parser speeds up page load times and offers faster updates for visualization elements.
 
+Project link: https://sf8nhp-malika-yelyubayeva.shinyapps.io/cs424p3/
+
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
